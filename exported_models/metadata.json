@@ -1,0 +1,29 @@
+{
+    "berat": {
+        "model_file": "exported_models/prophet_berat.json",
+        "jumlah_anak": 259,
+        "akurasi": 98.04,
+        "mae": 0.32,
+        "rmse": 0.35,
+        "mape": 1.96,
+        "satuan": "Kg"
+    },
+    "tinggi": {
+        "model_file": "exported_models/prophet_tinggi.json",
+        "jumlah_anak": 259,
+        "akurasi": 99.59,
+        "mae": 0.43,
+        "rmse": 0.48,
+        "mape": 0.41,
+        "satuan": "Cm"
+    },
+    "lingkar_kepala": {
+        "model_file": "exported_models/prophet_lingkar_kepala.json",
+        "jumlah_anak": 259,
+        "akurasi": 99.445,
+        "mae": 0.27,
+        "rmse": 0.295,
+        "mape": 0.555,
+        "satuan": "Cm"
+    }
+}

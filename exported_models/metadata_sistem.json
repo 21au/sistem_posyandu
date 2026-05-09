@@ -1,0 +1,26 @@
+{
+    "berat": {
+        "jumlah_anak": 259,
+        "akurasi": 98.553,
+        "mae": 0.242,
+        "rmse": 0.273,
+        "mape": 1.447,
+        "satuan": "Kg"
+    },
+    "tinggi": {
+        "jumlah_anak": 259,
+        "akurasi": 99.399,
+        "mae": 0.635,
+        "rmse": 0.686,
+        "mape": 0.601,
+        "satuan": "Cm"
+    },
+    "lingkar_kepala": {
+        "jumlah_anak": 259,
+        "akurasi": 99.277,
+        "mae": 0.348,
+        "rmse": 0.385,
+        "mape": 0.723,
+        "satuan": "Cm"
+    }
+}
